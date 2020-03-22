@@ -1,4 +1,4 @@
-<img alt="B-Spline" src="img/preview.png" width="400" align="right">
+<img alt="B-Spline" src="img/preview.png" width="300" align="right">
 
 # 1. Házi feladat - B-Spline
 
